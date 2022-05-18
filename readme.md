@@ -1,8 +1,7 @@
-# Course Project: Comp6321
-### Sneha Paul
-#### Student ID: 40200126
+# Improved Training for 3D Point Cloud Classification
 
-## Project Structure
+
+## Structure
 ```text
 experiments/  *** includes all modified experiments ***
 criterions/   *** all the loss functions ***
